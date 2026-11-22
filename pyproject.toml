@@ -1,0 +1,11 @@
+[project]
+name = "zzzod-plugin-drift-canvas-jigsaw"
+version = "1.0.0"
+description = "梦现追影画布巡回拼图活动全自动通关插件"
+requires-python = ">=3.11"
+readme = "README.md"
+license = { text = "MIT" }
+
+[tool.ruff]
+line-length = 88
+target-version = "py311"
